@@ -1,0 +1,12 @@
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#333333;}</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="32" width="32" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polygon canvas="#000000" canvas-opacity="0" stroke="null" id="svg_1" points="5.5,11.999999761581421 6.799999713897705,10.499999772757292 15.100000381469727,17 23.399999618530273,10.499999772757292 24.5,11.999999761581421 15,19.5 " class="st0"/>
+ </g>
+</svg>
